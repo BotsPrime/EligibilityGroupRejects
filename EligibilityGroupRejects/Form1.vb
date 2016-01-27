@@ -67,6 +67,7 @@ Public Class Form1
     Dim Clients As New List(Of Client)
 
     '*********************************************************************************************************************************************************************
+    'Just added this to see if it shows up in GIT 1/27/16 (RLB)
 
     Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
         'Default the date to today's date minus 1
