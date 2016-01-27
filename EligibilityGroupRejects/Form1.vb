@@ -68,6 +68,8 @@ Public Class Form1
 
     '*********************************************************************************************************************************************************************
 
+    'test comment for GIT (1/27/16 - RLB)
+
     Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
         'Default the date to today's date minus 1
         Me.DateTimePickerFrom.Value = Date.Today.AddDays(-1)
